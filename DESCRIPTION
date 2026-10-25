@@ -1,0 +1,16 @@
+Package: edahelper
+Type: Package
+Title: Mass creates summary plots and tables for datasets
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Daniel", "Aybar",
+      email = "daniel_aybar@brown.edu",
+      role = c("aut", "cre")
+    )
+  )
+Description: Creates multiple descriptive boxplots, barplots, scatterplots, and grouped tables for datasets with one function. Users will have the option to work with ggplot2 or base r graphics, as well as the ability to subset the data and customize plot features.
+License: GPL (>= 3)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
